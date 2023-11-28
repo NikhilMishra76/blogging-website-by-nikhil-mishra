@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+   
+  }
+  
+  h2 {
+    color: orange;
+    text-align: center;
+    font-size: 70px;
+    background-color: aquamarine;
+    font-weight: bold;
+    
+  }
+  
+  p {
+    font-family: verdana;
+    display: flex;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    
+    color: white;
+  }
+
+  img {
+    height: 355px;
+    border: 2px solid black;
+    border-radius: 200px;
+    float: left;
+  }
